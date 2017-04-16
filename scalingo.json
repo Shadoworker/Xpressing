@@ -1,0 +1,7 @@
+{
+  "name": "Sample Grails 3",
+  "description": "Sample Application using Java and the Framework Grails 3.x",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Scalingo/sample-java-grails3",
+  "website": "https://sample-java-grails3.scalingo.io/"
+}
